@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+Welcome to my Github. 
+- 🔭 I’m currently working on school projects.
+- 🌱 I’m currently learning Systematic programming, Spring Boot Applications
+- 💬 Ask me about ...
+- 📫 How to reach me: On my profile you can find my socials to reach me.
+- ⚡ Fun fact: Did you know that you cant see when you close your eyes. try and see
+-->
 <!--
 **chris-nkuutu/chris-nkuutu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
