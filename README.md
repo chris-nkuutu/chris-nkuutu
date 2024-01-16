@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there 👋 
+https://github.com/chris-nkuutu
 Welcome to my Github. 
+
 - 🔭 I’m currently working on school projects.
 - 🌱 I’m currently learning Systematic programming, Spring Boot Applications
 - 💬 Ask me about anything.
