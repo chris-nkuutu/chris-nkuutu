@@ -2,7 +2,7 @@
 Welcome to my Github. 
 - 🔭 I’m currently working on school projects.
 - 🌱 I’m currently learning Systematic programming, Spring Boot Applications
-- 💬 Ask me about ...
+- 💬 Ask me about anything.
 - 📫 How to reach me: On my profile you can find my socials to reach me.
 - ⚡ Fun fact: Did you know that you cant see when you close your eyes. try and see
 -->
