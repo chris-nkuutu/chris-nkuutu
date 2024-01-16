@@ -1,5 +1,5 @@
 ### Hi there 👋 
-https://github.com/chris-nkuutu
+chris-nkuutu.github.io/
 
 Welcome to my Github. 
 
